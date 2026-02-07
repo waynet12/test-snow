@@ -1,9 +1,4 @@
 {
   "scope": "x_hello_world",
-  "name": "Hello World Fluent",
-  "modulePaths": {
-    "fluent": "src/fluent",
-    "server": "src/server"
-  },
-  "scopeId": "PLACEHOLDER_SCOPE_ID"
+  "scopeId": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4"
 }

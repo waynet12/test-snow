@@ -3,3 +3,8 @@ dist/
 *.log
 .env
 .env.local
+.DS_Store
+*.iml
+*.tsbuildinfo
+.now/
+target/
